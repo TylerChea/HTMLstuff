@@ -1,8 +1,10 @@
 body {
-    background-color: pink;
+    background-color: purple;
 }
 h1 {
     color: blue;
+    font-size:30;
+    text-align;
 }
 p {
     color: red;
