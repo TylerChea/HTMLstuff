@@ -1,6 +1,6 @@
 body {
     background-color: orchid;
-    background-image:http://i.annihil.us/u/prod/marvel/i/mg/2/00/53710b14a320b.png;
+    background-image:url("http://i.annihil.us/u/prod/marvel/i/mg/2/00/53710b14a320b.png");
 }
 h1 {
     color: blue;
