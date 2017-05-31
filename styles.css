@@ -16,3 +16,12 @@ p {
     color: red;
     font-size: 160%;
 }
+caption {
+    font-size: 160%;
+}
+dd {
+    font-size:160%;
+}
+dt {
+    font-size:160;
+}
