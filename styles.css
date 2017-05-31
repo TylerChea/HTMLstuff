@@ -1,6 +1,9 @@
 body {
     background-color: white;
     background-image:url("http://i.annihil.us/u/prod/marvel/i/mg/2/00/53710b14a320b.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 h1 {
     color: black;
