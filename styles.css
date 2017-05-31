@@ -4,9 +4,10 @@ body {
 }
 h1 {
     color: blue;
-    font-family: Comic Sans MS;
+    font-family: Fullwidth;
     font-size: 200%;
     text-align: center;
+    letter-spacing: 10;
 }
 p {
     color: red;
