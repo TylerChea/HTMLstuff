@@ -27,3 +27,7 @@ dd {
 dt {
     font-size:160%;
 }
+a:link {
+    background-color:pink;
+}
+
