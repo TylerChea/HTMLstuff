@@ -27,15 +27,3 @@ dd {
 dt {
     font-size:160%;
 }
-a:link {
-    color: red;
-}
-a:visited {
-    color: green;
-}
-a:hover {
-    color: hotpink;
-}
-a:active {
-    color: blue;
-}
