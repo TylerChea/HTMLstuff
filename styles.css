@@ -28,6 +28,14 @@ dt {
     font-size:160%;
 }
 a:link {
-    background-color:pink;
+    color: red;
 }
-
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
