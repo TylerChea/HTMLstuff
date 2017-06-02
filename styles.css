@@ -30,6 +30,7 @@ dt {
 }
 ul {
     list-style-image: url('Spidermandancing (2).gif');
+    list-style-position: inside;
 }
 
 /* unvisited link */
