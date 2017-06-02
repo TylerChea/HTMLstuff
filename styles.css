@@ -19,6 +19,12 @@ p {
     height: 100px;
     width: 1000px;
 }
+h4 {
+    color:red;
+    font-family: Fullwidth;
+    font-size: 200%;
+    letter-spacing: 5;
+}
 caption {
     font-size: 160%;
 }
