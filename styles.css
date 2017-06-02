@@ -14,6 +14,7 @@ h1 {
 }
 p {
     color: red;
+    font-family: Arial;
     font-size: 160%;
     height: 100px;
     width: 100px;
