@@ -30,6 +30,8 @@ dt {
 }
 ul {
     list-style-image: url('spider-man-gif-haters.gif');
+    width: 10px;
+    height: 10px;
 }
 
 /* unvisited link */
