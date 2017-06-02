@@ -28,9 +28,13 @@ dd {
 dt {
     font-size:160%;
 }
+ul {
+    list-style-image: url('spider-man-gif-haters.gif');
+}
+
 /* unvisited link */
 a:link {
-    color: green;
+    color: red;
 }
 
 /* visited link */
@@ -40,7 +44,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: red;
+    color: blue;
 }
 
 /* selected link */
