@@ -36,7 +36,8 @@ dd {
     font-size:140%;
 }
 dt {
-    font-size:140%;
+    color: blue;
+    font-size:200%;
 }
 ul {
     list-style-image: url('arrow.png');
