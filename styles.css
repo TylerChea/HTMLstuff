@@ -19,6 +19,10 @@ p {
     height: 100px;
     width: 1000px;
 }
+h3{
+    color:blue;
+    font-size: 200%;
+}
 h4 {
     color:red;
     font-family: Fullwidth;
